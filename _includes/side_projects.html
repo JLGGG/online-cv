@@ -1,5 +1,5 @@
-{% assign side-project = site.data.data.side-project %}
-{% if side-project %}
+{% assign side_projects = site.data.data.side_projects %}
+{% if side_projects %}
 <section class="section summary-section">
 
   <h2 class="section-title">
@@ -7,11 +7,11 @@
       <i class="fas fa-circle fa-stack-2x"></i>
       <i class="fas fa-user fa-stack-1x fa-inverse"></i>
     </span>
-    {{ side-project.title }}
+    {{ side_projects.title }}
   </h2>
 
   <div class="summary">
-    {{ side-project.summary | markdownify }}
+    {{ side_projects.summary | markdownify }}
   </div><!--//summary-->
     
 </section><!--//section-->
