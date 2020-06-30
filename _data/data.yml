@@ -101,7 +101,7 @@ projects:
 
 awards:
     title: Awards
-    summary:
+    summary: |
     
 patents:
     title: Patents
@@ -112,7 +112,8 @@ patents:
         
 educations:
     title: Educations
-    summary: 3/2020 - 02/2022, Daegu Gyeongbuk Institute of Science and Technology, Korea
+    summary: |
+    3/2020 - 02/2022, Daegu Gyeongbuk Institute of Science and Technology, Korea
                       M.S., Information & Communication Engineering
                       Supervisor. Sunjun Kim(kuaa.net)
     3/2010 - 06/2019, Dongguk University, Korea
