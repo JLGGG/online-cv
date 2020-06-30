@@ -55,7 +55,7 @@ publications:
     intro: |
     papers:
       - title: Noise Reduction in Speech Recognition Using Virtual Studio Technology
-        link: doi.org/10.3745/PKIPS.y2018m10a.21
+        link: https://doi.org/10.3745/PKIPS.y2018m10a.21
         authors: Donghyun Kim, Keunchang Yoo, Junsu Lim, Sein Baek, Youngkyu Lee 
         conference: Korea Information Processing Society, 2018
 
@@ -92,7 +92,7 @@ patents:
     papers:
       - title: Snow-removal Route Search Apparatus and Operating Method Thereof
         authors: Yongkyu Lee, Keunchang Yoo, Junsu Lim, Donghyun Kim, Sein Baek, 2019, Korea
-        link: doi.org/10.8080/1020180098560
+        link: https://doi.org/10.8080/1020180098560
         
 educations:
     title: Educations
