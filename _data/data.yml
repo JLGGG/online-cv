@@ -64,15 +64,15 @@ projects:
     intro: >
     assignments:
       - title: MINT64
-        link: github.com/JLGGG/MINT64
+        link: https://github.com/JLGGG/MINT64
         tagline: test
 
       - title: Issuing and Transmitting Documents Using Ethereum - Backend developement
-        link: github.com/OpenHackTeam6
+        link: https://github.com/OpenHackTeam6
         tagline: test
 
       - title: It-chain
-        link: github.com/DE-labtory/it-chain
+        link: https://github.com/DE-labtory/it-chain
         tagline: test
 
       - title: Atom
