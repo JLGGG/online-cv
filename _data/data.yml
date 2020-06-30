@@ -113,30 +113,21 @@ patents:
 educations:
     title: Educations
     summary: |
-       - 3/2020 - 02/2022, Daegu Gyeongbuk Institute of Science and Technology, Daegu, Korea  
+       - 3/2020 - 02/2022, Daegu Gyeongbuk Institute of Science and Technology, Korea  
        - M.S., Information & Communication Engineering 
-       - Supervisor: Sunjun Kim(https://kuaa.net) 
+       - Supervisor: Sunjun Kim(kuaa.net) 
         
        - 3/2010 - 06/2019, Dongguk University, Seoul, Korea
        - B.S., Computer Science and Engineering
         
         
 working_experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        여기서부터
     - role: 
       time: 
       company: 
       details: |
+        -
         
-    - role: 
-      time: 
-      company: 
-      details: |
-      
 teaching_experiences:
     - role:
       deatils:
@@ -145,24 +136,24 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: C
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Go
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
-        
+      - name: C++
+        level: 50%
+
+      - name: Java
+        level: 50%
+
+      - name: Python
+        level: 30%
+      
+      - name: Deep Learning
+        level: 0%
+
 side_projects:
      title: Side Projects
      summary:
