@@ -114,7 +114,7 @@ educations:
     title: Educations
     summary:
     
-working experiences:
+working_experiences:
     - role: Lead Developer
       time: 2015 - Present
       company: Startup Hubs, San Francisco
@@ -130,7 +130,7 @@ working experiences:
       company: 
       details: |
       
-teaching experiences:
+teaching_experiences:
     - role:
       time:
       deatails:
