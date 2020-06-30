@@ -49,17 +49,8 @@ career-profile:
     title: Career Profile
     summary: |
       채워넣어야 함.
-education:
-    - degree: MSc in Information & Communication Engineering
-      university: Daegu Gyeongbuk Institute of Science and Technology
-      time: 2020.3 - 2022.2
-      details: |
-        
-    - degree: BSc in Computer Science and Engineering
-      university: Dongguk University
-      time: 2010.3 - 2019.6
-      details: |
-       
+
+    
 experiences:
     - role: Lead Developer
       time: 2015 - Present
