@@ -48,48 +48,32 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      채워넣어야 함.
+      -
       
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Noise Reduction in Speech Recognition Using Virtual Studio Technology
+        link: doi.org/10.3745/PKIPS.y2018m10a.21
+        authors: Donghyun Kim, Keunchang Yoo, Junsu Lim, Sein Baek, Youngkyu Lee 
+        conference: Korea Information Processing Society, 2018
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-        
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: MINT64
+        link: github.com/JLGGG/MINT64
+        tagline: -
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Issuing and Transmitting Documents Using Ethereum - Backend developement
+        link: github.com/OpenHackTeam6
+        tagline: -
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: It-chain
+        link: github.com/DE-labtory/it-chain
+        tagline: -
 
       - title: Atom
         link: "#"
