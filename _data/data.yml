@@ -48,7 +48,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      -
+      The update has not been completed.
       
 publications:
     title: Publications
@@ -65,23 +65,23 @@ projects:
     assignments:
       - title: MINT64
         link: https://github.com/JLGGG/MINT64
-        tagline: test
+        tagline: -
 
       - title: Issuing and Transmitting Documents Using Ethereum - Backend developement
         link: https://github.com/OpenHackTeam6
-        tagline: test
+        tagline: -
 
       - title: It-chain
         link: https://github.com/DE-labtory/it-chain
-        tagline: test
+        tagline: -
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: TestChain
+        link: https://github.com/JLGGG/TestChain
+        tagline: -
 
-      - title: Delta
+      - title: -
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: -
 
 awards:
     title: Awards
@@ -97,12 +97,12 @@ patents:
 educations:
     title: Educations
     summary: |
-       - 3/2020 - 02/2022, Daegu Gyeongbuk Institute of Science and Technology, Korea  
-       - M.S., Information & Communication Engineering 
-       - Supervisor: Sunjun Kim(kuaa.net) 
+      - 3/2020 - 02/2022, Daegu Gyeongbuk Institute of Science and Technology, Korea  
+      - M.S., Information & Communication Engineering 
+      - Supervisor: Sunjun Kim(kuaa.net) 
         
-       - 3/2010 - 06/2019, Dongguk University, Seoul, Korea
-       - B.S., Computer Science and Engineering
+      - 3/2010 - 06/2019, Dongguk University, Seoul, Korea
+      - B.S., Computer Science and Engineering
         
         
 working_experiences:
