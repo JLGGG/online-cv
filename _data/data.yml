@@ -65,23 +65,23 @@ projects:
     assignments:
       - title: MINT64
         link: https://github.com/JLGGG/MINT64
-        tagline: -
+        tagline: not yet..
 
       - title: Issuing and Transmitting Documents Using Ethereum - Backend developement
         link: https://github.com/OpenHackTeam6
-        tagline: -
+        tagline: not yet..
 
       - title: It-chain
         link: https://github.com/DE-labtory/it-chain
-        tagline: -
+        tagline: not yet..
 
       - title: TestChain
         link: https://github.com/JLGGG/TestChain
-        tagline: -
+        tagline: not yet..
 
-      - title: -
+      - title: not yet..
         link: "#"
-        tagline: -
+        tagline: not yet..
 
 awards:
     title: Awards
